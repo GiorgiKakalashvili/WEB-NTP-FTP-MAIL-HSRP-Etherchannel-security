@@ -1,5 +1,9 @@
 # WEB NTP FTP MAIL HSRP Etherchannel security
 
+<img width="1626" height="697" alt="WEB, NTP, FTP, MAIL, HSRP, Etherchannel, security" src="https://github.com/user-attachments/assets/a39c5a0a-110a-4049-89f5-2269d5d64604" />
+
+
+
 აღნიშნულ ტოპოლოგიაში განხილულია:
 
 
